@@ -3,8 +3,8 @@
 ### Education
 Computer Science
 
-###Work experience
+### Work experience
 Data scientist
 
-###Projects
+### Projects
 soon
